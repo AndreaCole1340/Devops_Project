@@ -4,3 +4,6 @@ this is a test..
 
 
 edit 3 - adding more test locally to push up
+
+the course i used to learn how to do this correctly is available on Udemy.com
+https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/learn/v4/t/lecture/2822794?start=0
